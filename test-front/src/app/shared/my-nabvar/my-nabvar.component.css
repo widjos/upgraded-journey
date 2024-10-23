@@ -1,0 +1,43 @@
+a  {
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: white;
+}
+
+.navbar-lik {
+    color:#00ae00;
+}
+
+a:hover {
+  color: #00ae00;
+}
+
+li.selected a {
+    color: #00ae00;
+}
+
+.navbar-nav {
+    background-color: #003063;
+    height: auto;
+    border-radius: 9px;
+}
+
+label {
+    font-family: 'Konkhmer Sleokchher', cursive;
+    font-weight: bold;
+    color : white;
+   }
+
+.container {
+    height: auto;
+    border-radius: 15px;
+   }
+
+li{
+    padding-left: 45px;
+}
+
+#option-login {
+  padding-right: 2%;
+}

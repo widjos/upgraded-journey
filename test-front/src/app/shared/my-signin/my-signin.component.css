@@ -1,0 +1,51 @@
+@import "primeicons/primeicons.css";
+
+label {
+    font-family: 'Konkhmer Sleokchher', cursive;
+    color:  #00a870;
+    
+}
+
+.back {
+    background-color: #45B64A;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='100%25' viewBox='0 0 1600 800'%3E%3Cg stroke='%23AEDFD6' stroke-width='66.7' stroke-opacity='0.02' %3E%3Ccircle fill='%2345B64A' cx='0' cy='0' r='1800'/%3E%3Ccircle fill='%2309b257' cx='0' cy='0' r='1700'/%3E%3Ccircle fill='%2300ad64' cx='0' cy='0' r='1600'/%3E%3Ccircle fill='%2300a870' cx='0' cy='0' r='1500'/%3E%3Ccircle fill='%2300a37c' cx='0' cy='0' r='1400'/%3E%3Ccircle fill='%23009d86' cx='0' cy='0' r='1300'/%3E%3Ccircle fill='%23009790' cx='0' cy='0' r='1200'/%3E%3Ccircle fill='%23009198' cx='0' cy='0' r='1100'/%3E%3Ccircle fill='%23008a9f' cx='0' cy='0' r='1000'/%3E%3Ccircle fill='%230084a4' cx='0' cy='0' r='900'/%3E%3Ccircle fill='%23007da7' cx='0' cy='0' r='800'/%3E%3Ccircle fill='%230076a9' cx='0' cy='0' r='700'/%3E%3Ccircle fill='%23006ea8' cx='0' cy='0' r='600'/%3E%3Ccircle fill='%230067a5' cx='0' cy='0' r='500'/%3E%3Ccircle fill='%23005fa1' cx='0' cy='0' r='400'/%3E%3Ccircle fill='%2300579a' cx='0' cy='0' r='300'/%3E%3Ccircle fill='%23004e92' cx='0' cy='0' r='200'/%3E%3Ccircle fill='%23014689' cx='0' cy='0' r='100'/%3E%3C/g%3E%3C/svg%3E");
+    background-attachment: fixed;
+    background-size: cover;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding:  15% 35%;
+   
+}
+
+
+.log-box {
+    border: solid 3px #00ae00;
+    background-color: #003063;
+    border-radius: 35px;
+    padding: 50px 40px;
+    min-width: 230px;
+    
+    
+}
+
+@media (max-width: 800px) {
+    img {
+        width: 11vw;
+        height: 20vh;
+    
+    }
+  }
+
+  @media (min-width: 800px) {
+    img {
+        width: 10vw;
+        height: 20vh;
+    }
+  }
+
+img {
+    width: 11vw;
+    height: 20vh;
+
+}
